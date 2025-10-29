@@ -1,3 +1,3 @@
 ![Cat][7]
 
-[7]: https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-1024.png
+[7]: https://www.gstatic.com/images/branding/searchlogo/ico/favicon.ico
